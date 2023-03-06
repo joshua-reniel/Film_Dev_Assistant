@@ -1,2 +1,3 @@
 # Film_Dev_Assistant
-This a Project I had designed in my ENEL 351 class
+---
+This a project I had designed for my ENEL 351 Class
